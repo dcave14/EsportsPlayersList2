@@ -1,3 +1,6 @@
+<!-- Dakota Cave
+CIS175 - JAVA II  -->
+
 <!-- JSP file for adding a new player to the Esports Players List app -->
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>

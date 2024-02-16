@@ -1,3 +1,6 @@
+/* Dakota Cave
+CIS175 - JAVA II */
+
 package Dakota.EsportsPlayersList.controller;
 
 import javax.persistence.EntityManager;

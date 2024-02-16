@@ -1,3 +1,6 @@
+/* Dakota Cave
+CIS175 - JAVA II */
+
 package Dakota.EsportsPlayersList.model;
 
 import javax.persistence.Entity;
